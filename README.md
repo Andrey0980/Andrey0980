@@ -16,5 +16,5 @@ Web: HTML 4.01, CSS1, NO JS
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Andrey0980&theme=chartreuse-dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andrey0980&layout=compact&card_width=200&theme=chartreuse-dark" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andrey0980&layout=compact&card_width=150&theme=chartreuse-dark" />
 </a>
